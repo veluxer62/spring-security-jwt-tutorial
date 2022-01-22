@@ -1,0 +1,4 @@
+custom:
+  jwt:
+    secret: jwt-secret-key
+    expiration: 1800000
